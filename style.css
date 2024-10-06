@@ -17,3 +17,12 @@
 .p{
 	font-family: "Lucida Console", "Courier New", monospace;
 }
+.skip-to-main-content{
+	right: 10%;
+	position: absolute;
+	transform: translateY(-100%);
+	padding: 8px;
+	transition: transform 0.4s;
+	background: blue;
+	color: yellow;
+}
