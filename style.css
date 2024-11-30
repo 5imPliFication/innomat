@@ -1,0 +1,99 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+    color: #C1BAA1;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 50px;
+    margin: auto;
+}
+p{
+    margin: auto;
+    margin-left: 75px;
+}
+#easterEgg{
+    text-align:right;
+    color: white;
+    font-size: 9px;
+    font-style: italic;
+}
+#menu {
+    display: flex;
+    position: sticky;
+    top: 0;
+    margin: auto;
+    background-color: #D7D3BF;
+    padding: 20px;
+    color: black;
+}
+#menu h2{
+    padding-top: 25px;
+    padding-left: 75px;
+}
+#menu button{
+    font-style: italic;
+    border-radius: 25%;
+    padding: 20px;
+    margin: auto;
+    background-color: #C1BAA1;
+    border: 0px;
+    font-size: 20px;
+}
+body{
+    background-color: #ECEBDE;
+    margin: auto;
+    padding: auto;
+}
+main{
+    border-radius: 20px;
+    padding: 5px;
+    margin: auto;
+}
+footer{
+    margin: auto;
+    background-color: #D7D3BF;
+}
+footer button{
+    margin: auto;
+    display: flex;
+    background-color: #C1BAA1;
+    padding: 20px;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+}
+footer h2{
+    padding-top: 20px;
+    font-size: 25px;
+}
+footer #contactInfo{
+    text-align: right;
+    font-size: 14px;
+    margin-top: 5px;
+}
+ul{
+    position: relative;
+    margin-left: 30px;
+}
+textarea{
+    margin: auto;
+    resize: none;
+    width: 80%;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    border-radius: 20px;
+    background-color: #ECEBDE;
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#random-image{
+    display: flex;
+}
+#random-image img{
+    height: 200px;
+    margin: 20px auto;
+}
